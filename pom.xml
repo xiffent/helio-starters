@@ -52,7 +52,7 @@
         <spring-cloud-alibaba.version>2021.0.5.0</spring-cloud-alibaba.version>
         <dubbo.version>3.1.10</dubbo.version>
         <seata.vesion>1.5.2</seata.vesion>
-        <nacos-client.vesion>2.1.2</nacos-client.vesion>
+        <nacos-client.vesion>2.3.0</nacos-client.vesion>
 
 
         <!-- 3rd-party versions -->
