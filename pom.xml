@@ -72,7 +72,7 @@
 
 
         <!-- DB Driver versions -->
-        <mysql.version>8.0.28</mysql.version>
+        <mysql.version>8.0.31</mysql.version>
         <postgresql.version>42.7.1</postgresql.version>
 
 
